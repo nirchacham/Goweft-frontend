@@ -1,0 +1,17 @@
+.posts-table-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.circular-progress-container {
+    margin-top: 10rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.post-search-field {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+    margin-bottom: 18px;
+}
